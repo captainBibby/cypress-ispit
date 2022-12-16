@@ -1,0 +1,25 @@
+{
+  "name": "vs-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainBibby/cypress-ispit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/captainBibby/cypress-ispit/issues"
+  },
+  "homepage": "https://github.com/captainBibby/cypress-ispit#readme",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
